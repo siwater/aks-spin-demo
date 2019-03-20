@@ -1,1 +1,1 @@
-Repository for Spinnaker experiments on AKS
+Repository for Spinnaker experiments on AKS.
